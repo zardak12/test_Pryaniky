@@ -2,7 +2,7 @@
 Создал приложение, которое получает с сервера json-файл cо списком данных и отображает список указанных элментов.
 ### Используемый язык: Swift
 ### Использовал Pods
-1)Alomofire
-2)Kingfisher
-3)FittedSheets
+1)Alomofire<br/>
+2)Kingfisher<br/>
+3)FittedSheets<br/>
 ### паттерн проектирования : MVC
